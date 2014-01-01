@@ -1,7 +1,15 @@
+/**
+ * The Goal of Lab 1 was to code a stable version
+ * of MergeSort and utilize it in a Divide and Conquer
+ * Algorithm that finds the closest pair of points
+ * 
+ * This file contains the code for MergeSort
+ */
+
 package lab1;
 
 public class Sort {
-    
+
     //================================= sort =================================
     //
     // Input: array A of XYPoints refs 

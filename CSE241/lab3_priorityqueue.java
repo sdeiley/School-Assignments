@@ -1,3 +1,13 @@
+/**
+ * The goal of Lab 3 was to implement a Priority Queue
+ * of an arbitrary type T using binary heaps.  
+ * 
+ * Completed December 2013
+ * Shane Deiley
+ * CSE 241: Data Structures and Algorithms
+ * Professor Kunal Agarwal
+ */
+
 package lab3;
 
 import java.util.ArrayList;

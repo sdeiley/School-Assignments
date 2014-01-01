@@ -1,9 +1,15 @@
 package lab2;
 
 /**
- * A hash table mapping Strings to their positions in the pattern sequence.
- *
- * Fill in the methods for this class.
+ * The goal of Lab 2 was to implement from scratch an Open-Addressing Hash table.
+ * The effectiveness of our implementation was tested by utilizing it in the 
+ * comparison of all common subsequences.  The lab was completed in ran in
+ * a time expected such that the asymptotic expected running time was satisfied.
+ * 
+ * Completed November 2013
+ * Shane Deiley
+ * CSE 241: Data Structures and Algorithms
+ * Professor Kunal Agarwal
  */
 public class StringTable {
 

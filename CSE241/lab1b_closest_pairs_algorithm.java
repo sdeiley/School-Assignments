@@ -1,3 +1,15 @@
+/**
+ * The second part of Lab 1, within this class is the 
+ * code utilizing MergeSort and finding the closest pair
+ * of points in a two-dimensional plane using a divide-and-conquer
+ * approach.
+ * 
+ * Completed September 2013
+ * Shane Deiley
+ * CSE 241: Data Structures and Algorithms
+ * Professor Kunal Agarwal
+ */
+
 package lab1;
 
 
