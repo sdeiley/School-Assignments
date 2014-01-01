@@ -1,1 +1,0 @@
-These are lab (programming) assignments for Data Structures and Algorithms, CSE 241, Washington University in St. Louis, Fall 2013
