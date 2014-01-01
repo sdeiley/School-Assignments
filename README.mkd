@@ -16,7 +16,7 @@ I will be posting code from additional classes at the end of each semester.
 
 _Course description:_   Study of fundamental algorithms, data structures, and their effective use in a variety of applications. Emphasizes importance of data structure choice and implementation for obtaining the most efficient algorithm for solving a given problem. A key component of this course is worst-case asymptotic analysis, which provides a quick and simple method for determining the scalability and effectiveness of an algorithm. Other topics covered generally include: divide-and-conquer algorithms, sorting algorithms, decision tree lower bound technique, hashing, binary heaps, skip lists, B-trees, basic graph algorithms.
 
-_Professor:_   [Kunal Agrawal](http://www.cse.wustl.edu/~kunal/)
+_Professor:_   [Dr. Kunal Agrawal](http://www.cse.wustl.edu/~kunal/)
 
 _Course Site:_   http://www.classes.cec.wustl.edu/~cse241/web/
 
