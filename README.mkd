@@ -9,6 +9,9 @@ I have currently listed materials for the following classes:
 
 * Algorithms and Data Structures (CSE 241)
 
+* Object Oriented Software Development Laboratory (CSE 332S and still in progress)
+
+
 I will be posting code from additional classes at the end of each semester.
 
 
@@ -23,6 +26,22 @@ _Course Site:_   http://www.classes.cec.wustl.edu/~cse241/web/
 _Language(s) Used:_   Java
 
 _Final Course Grade:_   A
+
+
+### Object Oriented Software Development Laboratory (CSE 332S) ###
+
+_Course description:_   Intensive focus on practical aspects of designing, implementing and debugging object-oriented software.  Special focus on design and implementation based on frameworks, as they are central themes enabling the construction of reusable, extensible, efficient, and maintainable software.
+
+_Professors:_   [Dr. Christoper Gill](http://www.cse.wustl.edu/~cdgill/)  Dr. Ruth Miller
+
+_Course Site:_   http://classes.cec.wustl.edu/~cse332/
+
+_Language(s) Used:_   C++
+
+_Final Course Grade:_   TBD (Currently an A)
+
+
+
 
 
 

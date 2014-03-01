@@ -1,0 +1,22 @@
+School Assignments
+==========
+
+Objective for this lab:
+This lab is intended to extend your use of basic C++ language features from the previous labs, and to give you experience using object-oriented programming techniques in C++, including:
+
+    * encapusulating game data within a class
+
+    * prompting for and receiving user input for game moves
+
+    * determining whether or not a move is valid, and if it is
+
+    * updating and displaying the new state of the game. 
+
+To do this, you will develop a C++ program with a game class that can:
+   1. repeatedly display the current state of a single-player game
+   2. prompt the user and receive input for the next move in the game
+   3. check whether or not each input move is valid, and if it is update the game state
+   4. detect the following three conditions: successful completion of the game, if the game has reached a point where no further valid moves are possible, or if there are still remaining valid moves available. 
+
+Author: Shane Deiley
+Completed: 2/26/14
