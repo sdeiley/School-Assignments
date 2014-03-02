@@ -1,0 +1,47 @@
+School Assignments
+==========
+This repository contains programming assignments from the various computer science courses I've completed during my time at Washington University in St. Louis.  There is a two-fold purpose to this repository.  First, it provides me an opportunity to keep my code under source code control for future reference.  Second, it gives prospective employers an opportunity to see some of my work first-hand and assess my fitness for potential job opportunities.
+
+
+List of courses
+------------
+I have currently listed materials for the following classes:
+
+* Algorithms and Data Structures (CSE 241)
+
+* Object Oriented Software Development Laboratory (CSE 332S and still in progress)
+
+
+I will be posting code from additional classes at the end of each semester.
+
+
+### Algorithms and Data Structures (CSE 241) ###
+
+_Course description:_   Study of fundamental algorithms, data structures, and their effective use in a variety of applications. Emphasizes importance of data structure choice and implementation for obtaining the most efficient algorithm for solving a given problem. A key component of this course is worst-case asymptotic analysis, which provides a quick and simple method for determining the scalability and effectiveness of an algorithm. Other topics covered generally include: divide-and-conquer algorithms, sorting algorithms, decision tree lower bound technique, hashing, binary heaps, skip lists, B-trees, basic graph algorithms.
+
+_Professor:_   [Dr. Kunal Agrawal](http://www.cse.wustl.edu/~kunal/)
+
+_Course Site:_   http://www.classes.cec.wustl.edu/~cse241/web/
+
+_Language(s) Used:_   Java
+
+_Final Course Grade:_   A
+
+
+### Object Oriented Software Development Laboratory (CSE 332S) ###
+
+_Course description:_   Intensive focus on practical aspects of designing, implementing and debugging object-oriented software.  Special focus on design and implementation based on frameworks, as they are central themes enabling the construction of reusable, extensible, efficient, and maintainable software.
+
+_Professors:_   [Dr. Christoper Gill](http://www.cse.wustl.edu/~cdgill/),  Dr. Ruth Miller
+
+_Course Site:_   http://classes.cec.wustl.edu/~cse332/
+
+_Language(s) Used:_   C++
+
+_Final Course Grade:_   TBD (Currently an A)
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+Project: Lab 0
+==========
+
+An introductory lab assignment, students were instructed to 
+make an parsing function, a usage message function, define enumerations,
+and get a general feel for the structure of C++ programs.
+
+All of this courses labs will be compounded on the previous,
+so often changes will occur to recurring header and source files
+to be used in future laboratory assignments.
+
+Author: Shane Deiley
+--------------------
+Date Completed: 1/29/14
+
+
+
+
+
