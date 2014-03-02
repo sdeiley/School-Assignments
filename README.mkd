@@ -11,6 +11,8 @@ I have currently listed materials for the following classes:
 
 * Object Oriented Software Development Laboratory (CSE 332S and still in progress)
 
+* Machine Learning (CSE 517A - see note within folder)
+
 
 I will be posting code from additional classes at the end of each semester.
 
@@ -39,6 +41,12 @@ _Course Site:_   http://classes.cec.wustl.edu/~cse332/
 _Language(s) Used:_   C++
 
 _Final Course Grade:_   TBD (Currently an A)
+
+
+### Machine Learning (CSE 517A) ###
+
+Please see the README within the folder.
+
 
 
 

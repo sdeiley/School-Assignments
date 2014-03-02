@@ -1,0 +1,17 @@
+Machine Learning
+==========
+This folder contains the code from the first assignment given in Wustl's Machine Learning course in Spring 2014 semester.  I have uploaded the code to show my experience in Matlab and my capabilities in more Mathematically inclined programming.
+
+Unfortunately, as a Sophomore enrolled in what is a graduate level computer science course, my advisors (and other faculty) instructed me to withdraw from the class to ensure a very firm foundation in more elementary computer science concepts, which I was learning alongside Machine Learning.  At the time of the withdraw, I had over a 100% in the course; I look forward to taking it in full the next time it is offered.
+
+Containted within:
+------------
+* The full first assignment as given
+
+* The programming solutions I wrote (with a partner).
+
+* The code used to test my code (but not the relevant .mat files).
+
+
+
+
