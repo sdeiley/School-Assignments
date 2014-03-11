@@ -90,11 +90,11 @@ public class StringTable {
     			
     			records++;
     			double elements = this.records;
-    	    	double possible = this.size;
-    	    	double loadFactor = elements/possible;
-    	    	if(loadFactor > .25){
-    	    		this.doubleSize();
-    	    	}
+    	    		double possible = this.size;
+    	    		double loadFactor = elements/possible;
+    	    		if(loadFactor > .25){
+    	    			this.doubleSize();
+    	    		}
         		
         		return true;
     		}
@@ -165,11 +165,9 @@ public class StringTable {
     		if(recordArray[hashed] == null){
     			return null;
     		}
-//    			if(recordArray[hashed].keysInt == hashed){
-    				if(recordArray[hashed].getKey().equals(key)){
-    					return recordArray[hashed];
-    				}
-//    			}
+    			if(recordArray[hashed].getKey().equals(key)){
+    				return recordArray[hashed];
+    			}
     		
     		i++;
     	}
@@ -209,7 +207,6 @@ public class StringTable {
      * @return the size of the table
      */
     public int size() {
-        // TODO: implement this method
        return this.testsize;
     }
 
@@ -227,8 +224,8 @@ public class StringTable {
     	int hashed = baseHash(spotToFindsInt);
     	
     	if( (recordArray[hashed] == null) || (recordArray[hashed].getKey().equals(key)) ){
-			return hashed;
-		}
+		return hashed;
+	}
     	
     	int i = 0;
     	while(i != size){
@@ -237,7 +234,7 @@ public class StringTable {
     		if( (recordArray[hashed] == null) || (recordArray[hashed].getKey().equals(key)) ){
     			return hashed;
     		}
-    		
+ 
     		i++;
     	}
     	
