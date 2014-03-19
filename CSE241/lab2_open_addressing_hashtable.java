@@ -187,7 +187,7 @@ public class StringTable {
     	
     	//Rehash the records from the previous array, skipping the dummy nodes
     	for(int i = 0; i < currentSize; i++){
-    		if( recordArray[i] != null && ( !(recordArray[i].getKey().equals("FUCKTHISLAB")) ) ){
+    		if( recordArray[i] != null && ( !(recordArray[i].getKey().equals("DELETED")) ) ){
     			doubled.insert(this.recordArray[i]);
     		}
     	}
