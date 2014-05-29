@@ -1,0 +1,21 @@
+School Assignments
+==========
+
+Objective for this lab:
+This lab is intended to extend the use of the C++ language features from the previous labs, and to give experience with them, including:
+
+    * Interacting with a single instance of the game currently in play,
+    * Allowing games to be saved and resumed,
+    * Implementing a multi-player game with alternating turns, and
+    * Making design decisions regarding copy control. 
+
+To implement this lab
+	1. Extend your C++ program from the previous lab so that it in addition to playing the Nine Almonds and Magic Square games from the previous lab assignment,
+	it also can play a multi-player Reversi game. 
+	2. Modify the game base class and the main program so that:
+		a) a single instance of the current game is accessed through a single static method, and
+		b) if a player quits a game they will have the option of saving (and later resuming) the state of the game.
+
+Author: Shane Deiley, Steven Bosch
+-------------------
+Completed: 4/23/14
