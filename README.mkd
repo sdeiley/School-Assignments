@@ -5,6 +5,12 @@ This repository contains programming assignments from the various computer scien
 
 List of courses
 ------------
+I have completed these courses but no longer have access to the repositories containing my projects:
+
+* Computer Science I (CSE 131)
+
+* Computer Science II (CSE 132)
+
 I have currently listed materials for the following classes:
 
 * Algorithms and Data Structures (CSE 241)
@@ -14,7 +20,30 @@ I have currently listed materials for the following classes:
 * Machine Learning (CSE 517A - see note within folder)
 
 
+
 I will be posting code from additional classes at the end of each semester.
+
+
+### Computer Science I (CSE 131) ###
+
+_Course description:_ Introductory course in computer science.  Covered basic programming techniques, loops, recursion, basic data structures, polymorphism, and object-oriented programming.
+
+_Professor:_  [Dr. Yixin Chen] (http://www.cse.wustl.edu/~ychen/)
+
+_Language Used:_  Java
+
+_Final Course Grade:_  A
+
+
+### Computer Science II (CSE 132) ###
+
+_Course description:_   Explored concepts, techniques, and design approaches for dealing with persistence, concurrency, and network computing. Algorithms and data structures presented as needed to support discussion of these topics, including Havender's algorithm and BlockingQueues. Concepts and skills mastered through the design and implementation of software projects while collaboration skills developed as work was performed in small teams.
+
+_Professor:_  [Dr. Roger Chamberlain] (http://www.ccrc.wustl.edu/~roger/)
+
+_Language Used:_  Java
+
+_Final Course Grade:_  A
 
 
 ### Algorithms and Data Structures (CSE 241) ###
@@ -40,7 +69,7 @@ _Course Site:_   http://classes.cec.wustl.edu/~cse332/
 
 _Language(s) Used:_   C++
 
-_Final Course Grade:_   TBD (Currently an A)
+_Final Course Grade:_   A
 
 
 ### Machine Learning (CSE 517A) ###
