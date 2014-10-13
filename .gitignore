@@ -6,17 +6,17 @@
 
 # Ignore the .DS_Store files Mac OS X drops everywhere...
 .DS_Store
-
+*~
 
 
 # Other files to consider down the line ... 
 # Ignore bundler config if using Ruby
-# /.bundle
+/.bundle
 
 # Ignore development, testing databases.
-# /db/*.sqlite3
-# /db/*.sqlite3-journal
+/db/*.sqlite3
+/db/*.sqlite3-journal
 
 # Ignore all logfiles and tempfiles.
-# /log/*.log
-# /tmp
+/log/*.log
+/tmp
