@@ -38,6 +38,8 @@ _Language Used:_  Java
 
 _Final Course Grade:_  A
 
+_Taken_ Fall 2012
+
 
 ### Computer Science II (CSE 132) ###
 
@@ -48,6 +50,8 @@ _Professor:_  [Dr. Roger Chamberlain] (http://www.ccrc.wustl.edu/~roger/)
 _Language Used:_  Java
 
 _Final Course Grade:_  A
+
+_Taken_ Spring 2014
 
 
 ### Algorithms and Data Structures (CSE 241) ###
@@ -62,6 +66,8 @@ _Language(s) Used:_   Java
 
 _Final Course Grade:_   A
 
+_Taken_ Fall 2013
+
 
 ### Creative Programming and Rapid Prototype Development (CSE 330S) ###
 
@@ -74,6 +80,8 @@ _Course Site:_   http://research.engineering.wustl.edu/~todd/cse330/
 _Language(s) Used:_   HTML, PHP, Mysql, JavaScript, Python
 
 _Final Course Grade:_   (currently have an) A
+
+_Taken_ Fall 2014
 
 
 ### Object Oriented Software Development Laboratory (CSE 332S) ###
@@ -88,6 +96,8 @@ _Language(s) Used:_   C++
 
 _Final Course Grade:_   A
 
+_Taken_ Spring 2014
+
 
 ### Introduction to Machine Learning (CSE 417A) ###
 
@@ -101,6 +111,7 @@ _Language(s) Used:_   Matlab
 
 _Final Course Grade:_   (currently have an) A
 
+_Taken_ Fall 2014
 
 
 ### Machine Learning (CSE 517A) ###
