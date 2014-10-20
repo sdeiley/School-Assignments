@@ -1,0 +1,10 @@
+School Assignments
+==========
+
+Project 4's Assignment is described in the pdf 'Hw4_CSE417A.pdf'
+
+Included in this directory is the relevant matlab files for completing the assigment.
+
+Author: Shane Deiley
+-------------------
+Completed: 10/2/14
