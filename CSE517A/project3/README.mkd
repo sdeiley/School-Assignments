@@ -1,0 +1,8 @@
+School Assignments
+==========
+
+Project 3's Assignment is described in the pdf 'hw3.pdf'
+
+Included in this directory is the relevant matlab files and the data the scripts and functions operate on.
+
+Author: Shane Deiley

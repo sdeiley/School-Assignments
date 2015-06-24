@@ -1,0 +1,8 @@
+School Assignments
+==========
+
+Project 1's Assignment is described in the pdf 'hw1.pdf'
+
+Included in this directory is the relevant matlab files and the data the scripts and functions operate on.
+
+Author: Shane Deiley

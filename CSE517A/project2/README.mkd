@@ -1,0 +1,9 @@
+School Assignments
+==========
+
+Project 2's Assignment is described in the pdf 'hw2.pdf'
+
+Included in this directory is the relevant matlab files and the data the scripts and functions operate on.
+
+Author: Shane Deiley
+

@@ -11,18 +11,17 @@ I have completed these courses but no longer have access to the repositories con
 
 * Computer Science II (CSE 132)
 
-I have currently listed materials for the following classes (or am currently taking):
+I have currently listed materials for the following classes:
 
 * Algorithms and Data Structures (CSE 241)
 
-* Creative Programming and Rapid Prototype Development (CSE 330S)
+* Creative Programming and Rapid Prototype Development (CSE 330S)(coming)
 
 * Object Oriented Software Development Laboratory (CSE 332S)
 
-* Introduction to Machine Learning (CSE 517A)
+* Introduction to Machine Learning (CSE 417A)
 
-* Machine Learning (CSE 517A - see note within folder)
-
+* Machine Learning (CSE 517A)
 
 
 I will be posting code from additional classes at the end of each semester.
@@ -79,7 +78,7 @@ _Course Site:_   http://research.engineering.wustl.edu/~todd/cse330/
 
 _Language(s) Used:_   HTML, PHP, Mysql, JavaScript, Python
 
-_Final Course Grade:_   (currently have an) A
+_Final Course Grade:_   A-
 
 _Taken_ Fall 2014
 
@@ -109,11 +108,21 @@ _Course Site:_   http://www.cse.wustl.edu/~sanmay/teaching/cse417/
 
 _Language(s) Used:_   Matlab
 
-_Final Course Grade:_   (currently have an) A
+_Final Course Grade:_   B
 
 _Taken_ Fall 2014
 
 
 ### Machine Learning (CSE 517A) ###
 
-Please see the README within the folder.
+_Course description:_   An advanced course on the topic of Machine Learning.  The majority of the course is a thorough overview of Supervised Learning, including popular algorithms like decision trees and variants, nearest neighbors, ANNs, etc, but also theoretical implications of supervised learning approaches such as the bias-variance decomposition and the bias-variance tradeoff, cross-validation, etc.  The end of the course was a survey of dimensionality reduction methods, comparison of machine learning approaches (e.g. frequentist vs. bayesian, etc), gaussian processes and bayesian optimization, and generative mixture models and applications, like clustering.
+
+_Professors:_   [Dr. Killian Weinberger](http://www.cse.wustl.edu/~kilian/)
+
+_Course Site:_   http://www.cse.wustl.edu/~cse517a/
+
+_Language(s) Used:_   Matlab
+
+_Final Course Grade:_   B+
+
+_Taken_ Spring 2015
