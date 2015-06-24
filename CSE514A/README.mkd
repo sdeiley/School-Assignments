@@ -1,0 +1,5 @@
+# Data Mining #
+
+Even though I just audited the course, I was a part of a team presentation overviewing approaches to sparsity-constrained non-negative matrix factorization approaches and thought it may be useful to include the slides.
+
+This is a good example of the types of academic papers we read on a weekly basis in CSE 514A.
