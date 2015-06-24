@@ -5,21 +5,27 @@ This repository contains programming assignments from the various computer scien
 
 List of courses
 ------------
-I have completed these courses but no longer have access to the repositories containing my projects:
+#### Undergraduate-level Courses
 
-* Computer Science I (CSE 131)
+* Computer Science I (CSE 131) (Code not available)
 
-* Computer Science II (CSE 132)
+* Computer Science II (CSE 132) (Code not available)
 
-I have currently listed materials for the following classes:
+* Independent Study in Parallel Data Structues (CSE 400) (See Resume)
 
 * Algorithms and Data Structures (CSE 241)
 
-* Creative Programming and Rapid Prototype Development (CSE 330S)(coming)
+* Creative Programming and Rapid Prototype Development (CSE 330S) (coming)
 
 * Object Oriented Software Development Laboratory (CSE 332S)
 
 * Introduction to Machine Learning (CSE 417A)
+
+#### Graduate-Level Courses
+
+* Data Mining (CSE 514A) (Audited)
+
+* Bayesian Methods in Machine Learning (CSE 515T) (coming)
 
 * Machine Learning (CSE 517A)
 
@@ -98,6 +104,19 @@ _Final Course Grade:_   A
 _Taken_ Spring 2014
 
 
+### Independent Study in Parallel Data Structures (CSE 400) ###
+
+_Course description:_ See resume for details.
+
+_Professor:_	Dr. Kunal Agrawal (see above)
+
+_Language(s) Used:_	 C, Cilk
+
+_Final Course Grade:_ A
+
+_Taken_ Fall 2014
+
+
 ### Introduction to Machine Learning (CSE 417A) ###
 
 _Course description:_   This course is a broad introduction to machine learning, covering supervised learning, unsupervised learning, decision-making under uncertainty, and reinforcement learning. Topics that will be covered include generative and discriminative techniques for classification (including regression, Naive Bayes, decision trees, neural networks, nearest-neighbor methods, support vector machines, and boosting), clustering and dimensionality reduction, dynamic programming, and temporal difference methods.
@@ -111,6 +130,35 @@ _Language(s) Used:_   Matlab
 _Final Course Grade:_   B
 
 _Taken_ Fall 2014
+
+### Data Mining (CSE 514A) ###
+
+_Course description:_   Audited a course surveying high-level approaches to common data mining problems, such as classification, dimensionality reduction, clustering, etc.  Read a lot of academic papers to gain experience learning emerging techniques and approaches.
+
+_Professors:_   [Dr. Weixiong Zhang](http://www.cse.wustl.edu/~zhang/)
+
+_Course Site:_   http://www.cse.wustl.edu/~zhang/
+
+_Language(s) Used:_   Matlab
+
+_Final Course Grade:_   N/A
+
+_Taken_ Spring 2015
+
+
+### Bayesian Methods in Machine Learning (CSE 515T) ###
+
+_Course description:_   Overview of Bayesian Statistics from a Machine Learning point of view.  Topics included Bayesian Inference, Bayesian Linear Regression, Bayesian Model Selection, Bayesian Logistic Regression, Gaussian Process Regression, Kernels and Gaussians, Bayesian Quadrature, Bayesian Optimization, Expectation Propogation, Rejection Sampling, MCMC. 
+
+_Professors:_   [Dr. Roman Garnett](http://www.cse.wustl.edu/~garnett/)
+
+_Course Site:_   http://www.cse.wustl.edu/~garnett/cse515t/
+
+_Language(s) Used:_   Matlab, Python
+
+_Final Course Grade:_   A-
+
+_Taken_ Spring 2015
 
 
 ### Machine Learning (CSE 517A) ###
