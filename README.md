@@ -1,6 +1,6 @@
 School Assignments
 ==========
-This repository contains programming assignments from the various computer science courses I've completed during my time at Washington University in St. Louis.  There is a two-fold purpose to this repository.  First, it provides me an opportunity to keep my code under source code control for future reference.  Second, it gives prospective employers an opportunity to see some of my work first-hand and assess my fitness for potential job opportunities.
+This repository contains programming assignments from the various computer science courses I've completed during my time at Washington University in St. Louis.  Its purpose is three-fold.  First, it provides me an opportunity to keep my code under source code control for future reference.  Second, it gives a demonstrable overview of my technical skills.  Finally, it allows for a perspective on how my skills have progressed over time.
 
 
 List of courses
