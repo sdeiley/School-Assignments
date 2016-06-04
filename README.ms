@@ -11,21 +11,30 @@ List of courses
 
 * Computer Science II (CSE 132) (Code not available)
 
-* Independent Study in Parallel Data Structues (CSE 400) (See Resume)
-
 * Algorithms and Data Structures (CSE 241)
 
-* Creative Programming and Rapid Prototype Development (CSE 330S) (coming)
+* Creative Programming and Rapid Prototype Development (CSE 330S) (Code not available)
 
 * Object Oriented Software Development Laboratory (CSE 332S)
 
+* Independent Study in Parallel Data Structues (CSE 400) (See Resume)
+
+* Independent Study: Gaussian Processes for Prediction Sorghum Biomass Yield  (CSE 400) (See Resume)
+
 * Introduction to Machine Learning (CSE 417A)
+
+* Cloud Computing with Big Data Applications (CSE 427S) (Code not available)
+
+* Advanced Algorithms (CSE 441T)
+
 
 #### Graduate-Level Courses
 
+* Introduction to Artifical Intelligence (CSE 511A) (Code not available)
+
 * Data Mining (CSE 514A) (Audited)
 
-* Bayesian Methods in Machine Learning (CSE 515T) (coming)
+* Bayesian Methods in Machine Learning (CSE 515T)
 
 * Machine Learning (CSE 517A)
 
